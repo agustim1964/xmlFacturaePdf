@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xmlFacturaePdf/static/css/main.f855e6bc.css",
+    "main.js": "/xmlFacturaePdf/static/js/main.62f96b27.js",
+    "static/js/453.e3daea0b.chunk.js": "/xmlFacturaePdf/static/js/453.e3daea0b.chunk.js",
+    "index.html": "/xmlFacturaePdf/index.html",
+    "main.f855e6bc.css.map": "/xmlFacturaePdf/static/css/main.f855e6bc.css.map",
+    "main.62f96b27.js.map": "/xmlFacturaePdf/static/js/main.62f96b27.js.map",
+    "453.e3daea0b.chunk.js.map": "/xmlFacturaePdf/static/js/453.e3daea0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.62f96b27.js"
+  ]
+}
